@@ -18,7 +18,7 @@ Con quince años en el sector financiero, he adquirido una comprensión profunda
 - **Lenguajes:** Java
 - **Frameworks:** Spring Boot
 - **Bases de Datos:** MySQL
-- **Herramientas:** Git
+- **Herramientas:** Git, JDBC
 
 ## 📫 Contacto
 - **Email:** [alejandrofernandezherrera@hotmail.com](mailto:alejandrofernandezherrera@hotmail.com)
