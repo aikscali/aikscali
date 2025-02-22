@@ -1,5 +1,5 @@
 # Alejandro Fernández Herrera
-*Desarrollador Back End con JAVA, Gestor de proyectos y apasionado por el café ☕*
+*Desarrollador Junior - Back End con JAVA, Gestor de proyectos y apasionado por el café ☕*
 
 ## Sobre Mí
 Con quince años en el sector financiero, he adquirido una comprensión profunda del modelo de negocio bancario desde una perspectiva comercial. Actualmente, soy Gestor de Proyectos en el sector retail para una cadena de farmacias, enfocándome en la automatización de procesos. Estoy en proceso de transición hacia el desarrollo web backend, donde espero aportar mi experiencia y conocimientos para contribuir al éxito de la organización.
